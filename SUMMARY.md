@@ -1,5 +1,12 @@
 # Summary
 
+## Для AI-агента
+
+* [Инструкция для AI-агента и чата](00-ai-agent-chat-guide.md)
+* [База вопросов для AI-чата](11-ai-chat/question-bank.md)
+* [Сценарии ответов AI-чата](11-ai-chat/answer-playbooks.md)
+* [Карта покрытия базы знаний](11-ai-chat/coverage-map.md)
+
 ## Администрирование
 
 * [Обзор админ-панели](01-administration/overview.md)
@@ -70,4 +77,3 @@
 ## Контроль качества
 
 * [Отчет по базе знаний](99-maintenance/review-report.md)
-
