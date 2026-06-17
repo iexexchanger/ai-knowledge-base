@@ -31,6 +31,7 @@
 
 * [Курсы](03-rates/rates.md)
 * [Источники курсов, формулы и резервы](03-rates/rates-reserves-reference.md)
+* [Полная инструкция по формулам курсов](03-rates/formula-rates-complete-guide.md)
 
 ## Заявки
 
