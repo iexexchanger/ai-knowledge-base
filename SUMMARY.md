@@ -10,6 +10,13 @@
 * [Маршрутизатор задач для AI-чата](11-ai-chat/task-routing-matrix.md)
 * [Чек-листы настройки админки](11-ai-chat/setup-checklists.md)
 
+## Запуск и сопровождение
+
+* [После покупки и запуск](12-launch-support/after-purchase-and-launch.md)
+* [Типовые ошибки после обновления](12-launch-support/post-update-errors.md)
+* [Запуск обменника по шагам](12-launch-support/exchanger-launch-step-by-step.md)
+* [Частые вопросы клиентов из Telegram](12-launch-support/client-frequent-questions.md)
+
 ## Администрирование
 
 * [Обзор админ-панели](01-administration/overview.md)
