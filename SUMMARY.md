@@ -6,6 +6,9 @@
 * [База вопросов для AI-чата](11-ai-chat/question-bank.md)
 * [Сценарии ответов AI-чата](11-ai-chat/answer-playbooks.md)
 * [Карта покрытия базы знаний](11-ai-chat/coverage-map.md)
+* [Расширенная база вопросов и ответов](11-ai-chat/expanded-qna.md)
+* [Маршрутизатор задач для AI-чата](11-ai-chat/task-routing-matrix.md)
+* [Чек-листы настройки админки](11-ai-chat/setup-checklists.md)
 
 ## Администрирование
 
