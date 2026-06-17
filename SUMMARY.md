@@ -16,6 +16,9 @@
 * [Типовые ошибки после обновления](12-launch-support/post-update-errors.md)
 * [Запуск обменника по шагам](12-launch-support/exchanger-launch-step-by-step.md)
 * [Частые вопросы клиентов из Telegram](12-launch-support/client-frequent-questions.md)
+* [Стартовые резервы и популярные валюты](12-launch-support/start-reserves-and-popular-currencies.md)
+* [Защита FastPanel и сервера](12-launch-support/fastpanel-security.md)
+* [Релизы и новости для AI-чата](12-launch-support/release-news-for-ai.md)
 
 ## Администрирование
 
