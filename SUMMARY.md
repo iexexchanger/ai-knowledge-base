@@ -15,16 +15,25 @@
 * [После покупки и запуск](12-launch-support/after-purchase-and-launch.md)
 * [Типовые ошибки после обновления](12-launch-support/post-update-errors.md)
 * [Запуск обменника по шагам](12-launch-support/exchanger-launch-step-by-step.md)
+* [С чего начать настройку админки](12-launch-support/beginner-admin-setup-roadmap.md)
 * [Частые вопросы клиентов из Telegram](12-launch-support/client-frequent-questions.md)
 * [Стартовые резервы и популярные валюты](12-launch-support/start-reserves-and-popular-currencies.md)
 * [Защита FastPanel и сервера](12-launch-support/fastpanel-security.md)
 * [Релизы и новости для AI-чата](12-launch-support/release-news-for-ai.md)
 
+## Техническая настройка
+
+* [FastPanel, Nginx и PHP 8.4](13-technical-setup/server-fastpanel-nginx-php84.md)
+* [Nginx для Angular SSR в FastPanel](13-technical-setup/nginx-angular-ssr-fastpanel.md)
+* [CRON, очереди и Horizon](13-technical-setup/background-processes-cron-queue.md)
+
 ## Администрирование
 
 * [Обзор админ-панели](01-administration/overview.md)
 * [Панель управления](01-administration/dashboard.md)
+* [Полная карта админ-панели](01-administration/admin-panel-complete-reference.md)
 * [Настройки системы](01-administration/settings.md)
+* [Карта связей настроек](01-administration/settings-dependency-map.md)
 * [Пользователи](01-administration/users.md)
 * [Роли и доступ](01-administration/roles-and-access.md)
 * [Справочник системных настроек](01-administration/settings-field-reference.md)
