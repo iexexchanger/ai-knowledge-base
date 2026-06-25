@@ -31,6 +31,7 @@
 
 * [Обзор админ-панели](01-administration/overview.md)
 * [Панель управления](01-administration/dashboard.md)
+* [Рабочий стол, поиск, аналитика и журнал событий](01-administration/workspace-search-analytics-events-reference.md)
 * [Полная карта админ-панели](01-administration/admin-panel-complete-reference.md)
 * [Настройки системы](01-administration/settings.md)
 * [Карта связей настроек](01-administration/settings-dependency-map.md)
@@ -46,8 +47,10 @@
 * [Направления обмена](02-currencies-directions/directions.md)
 * [Резервы](02-currencies-directions/reserves.md)
 * [Справочник валют](02-currencies-directions/currencies-reference.md)
+* [Валюты: полный порядок настроек](02-currencies-directions/currency-settings-complete-reference.md)
 * [Справочник направлений](02-currencies-directions/directions-reference.md)
 * [Комиссии, пересчет и ограничения направления](02-currencies-directions/direction-fees-recount-restrictions-reference.md)
+* [Резервы: обычные, связанные и из файлов](02-currencies-directions/reserves-reference.md)
 * [Реквизиты, профили и лимиты](02-currencies-directions/requisites-profiles-limits.md)
 
 ## Курсы
@@ -97,6 +100,7 @@
 ## Партнеры, экспорт и чат
 
 * [Партнеры, экспорт и чат заявки](10-partners-export-chat/partners-referrals-export-chat.md)
+* [Партнерская программа](10-partners-export-chat/partner-program-reference.md)
 
 ## Контроль качества
 
