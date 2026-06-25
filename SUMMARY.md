@@ -47,6 +47,7 @@
 * [Резервы](02-currencies-directions/reserves.md)
 * [Справочник валют](02-currencies-directions/currencies-reference.md)
 * [Справочник направлений](02-currencies-directions/directions-reference.md)
+* [Комиссии, пересчет и ограничения направления](02-currencies-directions/direction-fees-recount-restrictions-reference.md)
 * [Реквизиты, профили и лимиты](02-currencies-directions/requisites-profiles-limits.md)
 
 ## Курсы
